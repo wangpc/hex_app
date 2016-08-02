@@ -1,56 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wenba Quality Team</title>
-    <description>Blog of Wenba Tech Quality Team.</description>
-    <link>http://quality.wenba100.com/</link>
-    <atom:link href="http://quality.wenba100.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Aug 2016 16:44:08 +0800</pubDate>
-    <lastBuildDate>Tue, 02 Aug 2016 16:44:08 +0800</lastBuildDate>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://example.com/</link>
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 02 Aug 2016 17:25:53 +0800</pubDate>
+    <lastBuildDate>Tue, 02 Aug 2016 17:25:53 +0800</lastBuildDate>
     <generator>Jekyll v3.2.0</generator>
-    
-      <item>
-        <title>Hi Test Again</title>
-        <description>&lt;h3 id=&quot;lol-hahahahaha&quot;&gt;lol hahahahaha&lt;/h3&gt;
-
-&lt;h4 id=&quot;testetstestetestestestestestestest&quot;&gt;TESTETSTESTETESTESTESTESTESTESTEST&lt;/h4&gt;
-</description>
-        <pubDate>Tue, 02 Aug 2016 15:53:46 +0800</pubDate>
-        <link>http://quality.wenba100.com/2016/hi-test-again/</link>
-        <guid isPermaLink="true">http://quality.wenba100.com/2016/hi-test-again/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Test My Blog Site</title>
-        <description>&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;test&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Hello World!'&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;this is a Test
-Remember this
-Really&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;ok&quot;&gt;OK&lt;/h3&gt;
-</description>
-        <pubDate>Tue, 02 Aug 2016 14:49:31 +0800</pubDate>
-        <link>http://quality.wenba100.com/2016/test-my-site/</link>
-        <guid isPermaLink="true">http://quality.wenba100.com/2016/test-my-site/</guid>
-        
-        
-        <category>tech</category>
-        
-        <category>blog</category>
-        
-        <category>news</category>
-        
-      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -69,9 +27,9 @@ Really&lt;/p&gt;
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 02 Aug 2016 00:33:48 +0800</pubDate>
-        <link>http://quality.wenba100.com/2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://quality.wenba100.com/2016/welcome-to-jekyll/</guid>
+        <pubDate>Tue, 02 Aug 2016 17:24:38 +0800</pubDate>
+        <link>http://example.com/jekyll/update/2016/08/02/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://example.com/jekyll/update/2016/08/02/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
