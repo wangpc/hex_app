@@ -16,7 +16,7 @@
 title: Wenba Quality Team
 email: quality@wenba100.com
 description: Blog of Wenba Tech Quality Team.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/mypages" # the subpath of your site, e.g. /blog
 url: "http://quality.wenba100.com" # the base hostname & protocol for your site
 twitter_username: WenbaTech
 github_username:  WenbaTech
